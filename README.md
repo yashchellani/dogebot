@@ -1,2 +1,2 @@
 # dogebot
-telegram bot for stressed students
+telegram bot using the RandomDog API
